@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yunguxt.cn/2019/07/01/Sinopia/</loc>
+    
+    <lastmod>2020-11-25T15:10:12.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yunguxt.cn/2019/04/25/Git-Flow/</loc>
+    
+    <lastmod>2020-11-25T15:05:43.880Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yunguxt.cn/2016/06/10/Pixel/</loc>
     
     <lastmod>2020-08-13T09:12:04.186Z</lastmod>
@@ -40,20 +54,6 @@
     <loc>https://yunguxt.cn/2019/04/20/Git-Commit-Message-Style-Guide/</loc>
     
     <lastmod>2020-07-21T08:04:04.949Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yunguxt.cn/2019/04/25/Git-Flow/</loc>
-    
-    <lastmod>2020-07-21T05:55:57.165Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yunguxt.cn/2019/07/01/Sinopia/</loc>
-    
-    <lastmod>2020-06-20T09:54:25.870Z</lastmod>
     
   </url>
   
